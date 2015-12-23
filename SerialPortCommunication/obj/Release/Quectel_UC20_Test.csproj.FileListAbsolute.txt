@@ -1,0 +1,10 @@
+e:\VS2012\SerialPort-master\SerialPortCommunication\bin\Release\Quectel_UC20_Test.exe.config
+e:\VS2012\SerialPort-master\SerialPortCommunication\bin\Release\Quectel_UC20_Test.exe
+e:\VS2012\SerialPort-master\SerialPortCommunication\bin\Release\Quectel_UC20_Test.pdb
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\Quectel_UC20_Test.csprojResolveAssemblyReference.cache
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\PCComm.AboutBox.resources
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\PCComm.frmMain.resources
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\PCComm.Properties.Resources.resources
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\Quectel_UC20_Test.csproj.GenerateResource.Cache
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\Quectel_UC20_Test.exe
+e:\VS2012\SerialPort-master\SerialPortCommunication\obj\Release\Quectel_UC20_Test.pdb
